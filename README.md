@@ -1,2 +1,2 @@
 # Christmas-Joke-Generator
-simple joke generator script
+A simple Christmas Joke Generator made in python
